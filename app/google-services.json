@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991763138208",
+    "firebase_url": "https://socialplayground129.firebaseio.com",
+    "project_id": "socialplayground129",
+    "storage_bucket": "socialplayground129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991763138208:android:06a594838e434600",
+        "android_client_info": {
+          "package_name": "xiaoguangd.socialplayground129"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991763138208-s5sji49ie3rghiudpqlcqc0nm5qigsdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_Yfvz5ve6XTbc2914b5j738BizKuwT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

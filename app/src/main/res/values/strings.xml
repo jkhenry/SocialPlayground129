@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocialPlayground129</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="register">Register</string>
+
+    <string name="location">Location</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="select">Select</string>
+    <string name="report">Report</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
